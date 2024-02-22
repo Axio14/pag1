@@ -1,0 +1,35 @@
+*
+{
+    margin: 20px;
+}
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1
+{
+    padding: 5%;
+    border: 10px;
+    border-style: groove;
+    border-color: yellow;
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+
+}
+p
+{
+    background-color: darkgrey;
+    color: coral;
+    text-align: justify;
+    text-decoration: line-through;
+}
+img
+{
+    border-style: dotted;
+    border-color: black;
+    width: 30%;
+    
+}
